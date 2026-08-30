@@ -1,0 +1,14 @@
+{
+  "title": "Skill Radar",
+  "color": "#39d353",
+  "showValues": false,
+  "data": {
+    "Python": 85,
+    "JavaScript": 70,
+    "Telegram Bots": 90,
+    "APIs": 75,
+    "Automation": 80,
+    "Git/GitHub": 65,
+    "Debugging": 88
+  }
+}
