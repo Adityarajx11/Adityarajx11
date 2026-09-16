@@ -27,5 +27,6 @@ jobs:
         with:
           message: "Generate Contribution Snake"
           add: "dist/*.svg"
+          pull: "--rebase --autostash"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
