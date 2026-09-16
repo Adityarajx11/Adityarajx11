@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="./dist/my-portrait.svg" width="220" alt="portrait" />
+<img src="./assets/halftone.png" width="380" alt="Aditya — halftone portrait" />
 
-# Hi, I'm Aditya 👋
+<a href="https://github.com/Adityarajx11">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=39D353&center=true&vCenter=true&width=620&lines=Aditya+Raj;Competitive+Programmer;Telegram+Bot+Developer;Automation+%26+AI+Explorer" alt="typing intro" />
+</a>
 
-Building things that live in the space between Telegram, automation, and "wait, that actually worked?"
+<br />
 
-<a href="https://your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-url"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<!-- TODO: swap any handle that isn't yours -->
+<a href="https://linkedin.com/in/adityarajx11"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hello@aditya.dev"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Adityarajx11"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://codeforces.com/profile/adityarajx11"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/adityarajx11/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
+<br />
+<img src="https://komarev.com/ghpvc/?username=Adityarajx11&label=profile+views&color=brightgreen&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -39,9 +47,24 @@ $ cat about.txt
 
 ---
 
+### ~/ contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <img src="./dist/github-snake.svg" alt="contribution snake" />
+  </picture>
+</div>
+
+---
+
 ### ~/ the numbers
 
+<div align="center">
 <img src="./dist/stats.svg" width="480" alt="stats" />
+<br />
+<img src="https://streak-stats.demolab.com?user=Adityarajx11&theme=dark&background=0d1117&ring=e11d48&fire=fb4d6d&currStreakLabel=f2ede4" alt="streak" />
+</div>
 
 ---
 
@@ -62,5 +85,5 @@ $ cat about.txt
 ---
 
 <div align="center">
-<sub>Last refreshed automatically via GitHub Actions</sub>
+<sub>Black polo by day, red suit by night · Last refreshed automatically via GitHub Actions</sub>
 </div>
