@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/halftone.png" width="380" alt="Aditya — halftone portrait" />
+<img src="./assets/halftone.svg" width="380" alt="Aditya — halftone portrait" />
 
 <a href="https://github.com/Adityarajx11">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=39D353&center=true&vCenter=true&width=620&lines=Aditya+Raj;Competitive+Programmer;Telegram+Bot+Developer;Automation+%26+AI+Explorer" alt="typing intro" />
@@ -81,6 +81,7 @@ $ cat about.txt
 | project | description | stack |
 |---|---|---|
 | **RavenStore Bot** | UPI/QR-payment digital goods store on Telegram, tiered admin controls, stock management | Python, pyTelegramBotAPI |
+| **Dominyx Network** | Family of single-purpose Discord bots — music, levels, greetings, tickets, live alerts, moderation — plus HQ web dashboard | Node.js, Discord.js, Postgres |
 
 ---
 
