@@ -3,7 +3,7 @@
 <img src="./assets/halftone.svg" width="380" alt="Aditya — halftone portrait" />
 
 <a href="https://github.com/Adityarajx11">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=E11D48&center=true&vCenter=true&width=620&lines=Aditya+Raj;Competitive+Programmer;Building+Stuff+For+The+Internet;Automation+%26+AI+Explorer" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=E11D48&center=true&vCenter=true&width=620&lines=Aditya+Raj;Competitive+Programmer;Full+Stack+Developer;Automation+%26+AI+Explorer" alt="typing intro" />
 </a>
 
 <br />
