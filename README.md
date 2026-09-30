@@ -11,7 +11,7 @@
 <!-- TODO: swap any handle that isn't yours -->
 <a href="https://linkedin.com/in/adityarajx11"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hello@aditya.dev"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Adityarajx11"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-weld-beta-69.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://codeforces.com/profile/adityarajx11"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 <a href="https://leetcode.com/u/adityarajx11/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
@@ -82,6 +82,7 @@ $ cat about.txt
 |---|---|---|
 | **RavenStore Bot** | UPI/QR-payment digital goods store on Telegram, tiered admin controls, stock management | Python, pyTelegramBotAPI |
 | **Dominyx Network** | Family of single-purpose Discord bots — music, levels, greetings, tickets, live alerts, moderation — plus HQ web dashboard | Node.js, Discord.js, Postgres |
+| **3D Portfolio** | Live 3D design-engineer portfolio — https://portfolio-weld-beta-69.vercel.app/ | React, Three.js, Vite |
 
 ---
 
